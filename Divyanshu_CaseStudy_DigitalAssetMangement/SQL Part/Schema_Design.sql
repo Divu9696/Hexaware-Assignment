@@ -127,19 +127,8 @@ INSERT INTO reservations (reservation_id, asset_id, employee_id, reservation_dat
 (10, 10, 10, '2023-10-15', '2023-10-20', '2023-10-25', 'canceled');
 
 
-SELECT * FROM Employees;
-
-
-
-SELECT * FROM assets;
-
-
-SELECT * FROM maintenance_records;
-
-
-
-SELECT * FROM asset_allocations;
-
-
-
-SELECT * FROM reservations;
+-- SELECT * FROM Employees;
+-- SELECT * FROM assets;
+-- SELECT * FROM maintenance_records;
+-- SELECT * FROM asset_allocations;
+-- SELECT * FROM reservations;

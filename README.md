@@ -1,2 +1,2 @@
-# SQL-Assignment
-This is my SQL Assignments Repo
+# Hexaware-Assignment
+This is my Assignments Repo

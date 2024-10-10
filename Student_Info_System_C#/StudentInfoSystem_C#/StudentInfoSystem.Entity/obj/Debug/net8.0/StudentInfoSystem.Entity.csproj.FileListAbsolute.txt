@@ -1,0 +1,11 @@
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/bin/Debug/net8.0/StudentInfoSystem.Entity.deps.json
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/bin/Debug/net8.0/StudentInfoSystem.Entity.dll
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/bin/Debug/net8.0/StudentInfoSystem.Entity.pdb
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/StudentInfoSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/StudentInfoSystem.Entity.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/StudentInfoSystem.Entity.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/StudentInfoSystem.Entity.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/StudentInfoSystem.Entity.dll
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/refint/StudentInfoSystem.Entity.dll
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/StudentInfoSystem.Entity.pdb
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.Entity/obj/Debug/net8.0/ref/StudentInfoSystem.Entity.dll

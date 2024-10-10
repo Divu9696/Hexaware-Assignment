@@ -1,0 +1,11 @@
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/bin/Debug/net8.0/StudentInfoSystem.BusinessLayer.deps.json
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/bin/Debug/net8.0/StudentInfoSystem.BusinessLayer.dll
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/bin/Debug/net8.0/StudentInfoSystem.BusinessLayer.pdb
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/StudentInfoSystem.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/StudentInfoSystem.BusinessLayer.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/StudentInfoSystem.BusinessLayer.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/StudentInfoSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/StudentInfoSystem.BusinessLayer.dll
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/refint/StudentInfoSystem.BusinessLayer.dll
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/StudentInfoSystem.BusinessLayer.pdb
+/Users/divyanshusingh/Desktop/Student_Info_System /Task1_2_&3/StudentInfoSystem.BusinessLayer/obj/Debug/net8.0/ref/StudentInfoSystem.BusinessLayer.dll
